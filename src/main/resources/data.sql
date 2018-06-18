@@ -1,0 +1,1 @@
+insert into users(ID, EMAIL, NAME, PASSWORD, SECRET  ) values(1, 'teszt@teszt.hu', 'tomi', 'pass', '');
